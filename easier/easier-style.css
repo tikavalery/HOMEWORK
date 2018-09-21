@@ -1,0 +1,24 @@
+body{background-color:#777;
+font-family:Arial, Helvetica,Helvetica Neue,sans-serif;
+color:#777;
+width: 960px;
+font-size:18px;text-align: center;
+margin:auto;}
+header{height:80px;padding:20px;margin-bottom:20px; }
+nav{height:80px;padding:20px;margin-bottom:20px; }
+.box{margin:auto 0;}
+.content{background-color: #ebebeb;}
+section{padding:10px;height:400px;width: 400px;  }
+article{color: #ebebeb;background-color: #777;padding: 10px;}
+aside{width:420px;height:420px;position: relative;left:540px;bottom:442px;}
+.aside-text{padding:30px;}
+
+/*hp stands for heading and paragraph inside article*/
+.h, .para{color: #777;
+background-color: #ebebeb;}
+
+
+
+
+
+footer{height:80px;padding:20px;margin-bottom:20px;position: relative;bottom: 400px; }
